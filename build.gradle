@@ -1,0 +1,21 @@
+group 'ru.testPFLBWithAllure'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    compile group: 'org.seleniumhq.selenium', name: 'selenium-java', version: '3.8.1'
+
+    testCompile group: 'io.qameta.allure', name: 'allure-junit4', version: '2.0-BETA21'
+    testCompile group: 'ru.yandex.qatools.allure', name: 'allure-junit-adaptor', version: '1.5.4'
+
+    testCompile group: 'info.cukes', name: 'cucumber-junit', version: '1.2.5'
+    compile group: 'info.cukes', name: 'cucumber-java', version: '1.2.5'
+}

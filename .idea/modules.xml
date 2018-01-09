@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RazDvaTri4rePyatAllurSobirausPodkluchat.iml" filepath="$PROJECT_DIR$/.idea/modules/RazDvaTri4rePyatAllurSobirausPodkluchat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RazDvaTri4rePyatAllurSobirausPodkluchat_main.iml" filepath="$PROJECT_DIR$/.idea/modules/RazDvaTri4rePyatAllurSobirausPodkluchat_main.iml" group="RazDvaTri4rePyatAllurSobirausPodkluchat" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RazDvaTri4rePyatAllurSobirausPodkluchat_test.iml" filepath="$PROJECT_DIR$/.idea/modules/RazDvaTri4rePyatAllurSobirausPodkluchat_test.iml" group="RazDvaTri4rePyatAllurSobirausPodkluchat" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/allure-teamcity-agent/allure-teamcity-agent.iml" filepath="$PROJECT_DIR$/.idea/modules/allure-teamcity-agent/allure-teamcity-agent.iml" group="allure-teamcity-agent" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/allure-teamcity-common/allure-teamcity-common.iml" filepath="$PROJECT_DIR$/.idea/modules/allure-teamcity-common/allure-teamcity-common.iml" group="allure-teamcity-common" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/allure-teamcity-server/allure-teamcity-server.iml" filepath="$PROJECT_DIR$/.idea/modules/allure-teamcity-server/allure-teamcity-server.iml" group="allure-teamcity-server" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,6 @@
+rootProject.name = 'RazDvaTri4rePyatAllurSobirausPodkluchat'
+
+include 'allure-teamcity-common'
+include 'allure-teamcity-agent'
+include 'allure-teamcity-server'
+
